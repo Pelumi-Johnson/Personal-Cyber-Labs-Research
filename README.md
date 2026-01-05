@@ -20,3 +20,11 @@ Hands-on practice with core Linux commands, directory traversal, file handling, 
 ➡ [Vew Lab Report](https://github.com/Pelumi-Johnson/-TryHackMe-Linux-Fundamentals-Part-1/tree/main)
 
 ---
+
+### 🐧 Tryhackme Linux Fundamentals Part 2: Command Line Foundations
+Hands-on lab focused on strengthening Linux command-line fundamentals, including filesystem navigation, file management, permissions, user context, and core system directories. 
+
+➡ [Vew Lab Report](https://github.com/Pelumi-Johnson/Linux-Fundamentals-Part-2/tree/main)
+
+---
+
