@@ -29,7 +29,7 @@ Hands-on lab focused on strengthening Linux command-line fundamentals, including
 ---
 
 ### 🛡️ Bettercap Passive Network Observation Lab
-This project documents a **passive network observation lab** conducted using **Bettercap** on an **Ubuntu virtual machine**
+This project documents a passive network observation lab conducted using Bettercap on an Ubuntu virtual machine
 
 ➡ [Vew Lab Report](https://github.com/Pelumi-Johnson/Bettercap-Passive-Network-Observation-Lab/tree/main)
 
